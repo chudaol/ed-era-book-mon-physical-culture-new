@@ -5,7 +5,7 @@
 
 <table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
   <tr border="0" bordercolor="0">
-    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" height="150" width="200" src="10.jpg"/></div></td>
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" src="10.jpg" style="width: 220px; height: auto;"/></div></td>
     <td valign="bottom" border="0" bordercolor="0"><b>Зленко Наталія Сергіївна</b>
     <br>
 <i>Хореограф, вчитель, модератор з фізичної культури</i></td>
