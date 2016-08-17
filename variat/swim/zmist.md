@@ -3,10 +3,11 @@
 # Плавання
 
 <p><b>Зміст розділу:</b></p>
-  * [1 рік вивчення](1.md)
-  * [2 рік вивчення](2.md)
-  * [3 рік вивчення](3.md)
-  * [4 рік вивчення](4.md)
+* [Пояснювальна записка](poyasnuvalna.md)
+  * [1 клас](1.md)
+  * [2 клас](2.md)
+  * [3 клас](3.md)
+  * [4 клас](4.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
